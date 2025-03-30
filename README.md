@@ -37,7 +37,7 @@ This project builds an AI-powered Retrieval-Augmented Generation (RAG) system th
    streamlit run streamlit.py
 
 ## Project Architecture
-### 
+```bash
 📂 AI-Nutrition-RAG
 ├── 📄 main.py            # Main execution file
 ├── 📄 streamlit.py       # Streamlit UI interface
