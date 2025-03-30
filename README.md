@@ -23,7 +23,7 @@ This project builds an AI-powered Retrieval-Augmented Generation (RAG) system th
 - Evaluation Metrics: Measures performance with context recall, faithfulness, and factual correctness.
 
 ## Setup and Implementation
-1. Install dependencies
+1. ### Install dependencies
    ```pip install -r requirements.txt```
 
 2. Set Up Environment Variables
