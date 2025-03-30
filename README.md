@@ -1,5 +1,8 @@
 # RAG-Project
 
+![NutriBot](https://github.com/user-attachments/assets/181a6ff6-41d7-41e7-92fb-cffa564f9ed0)
+
+
 ## Overview
 This project builds an AI-powered Retrieval-Augmented Generation (RAG) system that extracts relevant information from scientific research papers and generates insightful responses. The integration of Pinecone, OpenAI's GPT-4o-mini, and Streamlit enhances access to scientific knowledge. The system uses advanced semantic search to ensure that the generated content is both accurate and contextually appropriate.
 
