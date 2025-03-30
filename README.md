@@ -28,9 +28,10 @@ This project builds an AI-powered Retrieval-Augmented Generation (RAG) system th
 
 ### 2. Set Up Environment Variables
    Create a .env file and add the following:
-    ```OPENAI_API_KEY=your_openai_key
-       PINECONE_API_KEY=your_pinecone_key
-       PINECONE_INDEX_HOST=your_pinecone_host
+   ```bash
+    OPENAI_API_KEY=your_openai_key
+    PINECONE_API_KEY=your_pinecone_key
+    PINECONE_INDEX_HOST=your_pinecone_host
 
 ### 3. Run the Application
   ```streamlit run streamlit.py```
