@@ -35,3 +35,14 @@ This project builds an AI-powered Retrieval-Augmented Generation (RAG) system th
 
 ### 3. Run the Application
    streamlit run streamlit.py
+
+## Project Architecture
+### 
+📂 AI-Nutrition-RAG
+├── 📄 main.py            # Main execution file
+├── 📄 streamlit.py       # Streamlit UI interface
+├── 📄 pinecone_index.py  # Pinecone vector storage logic
+├── 📄 rag_evaluation.py  # RAG evaluation metrics
+├── 📄 requirements.txt   # Dependencies
+├── 📄 README.md          # Project documentation
+└── 📂 data               # Research papers (PDFs)
