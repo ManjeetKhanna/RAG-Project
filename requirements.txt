@@ -1,0 +1,10 @@
+fitz==0.0.1.dev2
+numpy==2.2.3
+openai==1.65.3
+pinecone==6.0.1
+PyMuPDF==1.25.3
+python-dotenv==1.0.1
+Requests==2.32.3
+sentence_transformers==3.4.1
+spacy==3.8.4
+tqdm==4.67.1
